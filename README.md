@@ -15,8 +15,8 @@ I'm a tech enthusiast who has a deep love for programming and all things related
 ⚡  My love for video games is the driving force behind my passion for programming.
 
 
-<a href="https://www.github.com/imdevendersingh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/imdevendersingh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Devendersinghcs" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/devendersinghhx" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/devendersinghhx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Devendersinghcs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Devendersinghcs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
